@@ -1,0 +1,19 @@
+# Vivado junk
+*.log
+*.jou
+*.str
+*.wdb
+*.wcfg
+*.vcd
+*.pb
+
+.sim/
+.runs/
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+
+# OS
+.DS_Store
+Thumbs.db
