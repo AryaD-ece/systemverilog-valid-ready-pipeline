@@ -136,5 +136,5 @@ xsim tb_pipeline_sim -run all
 
 ## Author
 
-Arya Dinesh
+**Arya Dinesh**  
 B.Tech Electronics & Communication Engineering
